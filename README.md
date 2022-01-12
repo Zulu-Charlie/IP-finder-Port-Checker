@@ -5,4 +5,7 @@ Yes the Coments are in German.
 Just write in the Port Sektion in the:  '..' your IP and behind the coma (,) the Port you want to check.
 
 Ist offen = Its open
+
+
+
 Ist Geschlossen = Closen
